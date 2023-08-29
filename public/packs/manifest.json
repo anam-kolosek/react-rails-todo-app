@@ -1,0 +1,84 @@
+{
+  "application.js": "/packs/js/application-01694c8e13b10c6dc6b0.js",
+  "application.js.map": "/packs/js/application-01694c8e13b10c6dc6b0.js.map",
+  "components/AxiosHeaders.js": "/packs/js/components/AxiosHeaders-8fda6515f97c34064f50.js",
+  "components/AxiosHeaders.js.map": "/packs/js/components/AxiosHeaders-8fda6515f97c34064f50.js.map",
+  "components/ErrorMessage.js": "/packs/js/components/ErrorMessage-a8902c9102f8976d4e36.js",
+  "components/ErrorMessage.js.map": "/packs/js/components/ErrorMessage-a8902c9102f8976d4e36.js.map",
+  "components/Spinner.js": "/packs/js/components/Spinner-11a5bab0edce739d3318.js",
+  "components/Spinner.js.map": "/packs/js/components/Spinner-11a5bab0edce739d3318.js.map",
+  "components/TodoApp.js": "/packs/js/components/TodoApp-ae638817671e7dfe70ae.js",
+  "components/TodoApp.js.map": "/packs/js/components/TodoApp-ae638817671e7dfe70ae.js.map",
+  "components/TodoForm.js": "/packs/js/components/TodoForm-351814547682a997b217.js",
+  "components/TodoForm.js.map": "/packs/js/components/TodoForm-351814547682a997b217.js.map",
+  "components/TodoItem.js": "/packs/js/components/TodoItem-1c98589f47cd729d8e10.js",
+  "components/TodoItem.js.map": "/packs/js/components/TodoItem-1c98589f47cd729d8e10.js.map",
+  "components/TodoItems.js": "/packs/js/components/TodoItems-f3c79dbdc84cc689b682.js",
+  "components/TodoItems.js.map": "/packs/js/components/TodoItems-f3c79dbdc84cc689b682.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-01694c8e13b10c6dc6b0.js"
+      ],
+      "js.map": [
+        "/packs/js/application-01694c8e13b10c6dc6b0.js.map"
+      ]
+    },
+    "components/AxiosHeaders": {
+      "js": [
+        "/packs/js/components/AxiosHeaders-8fda6515f97c34064f50.js"
+      ],
+      "js.map": [
+        "/packs/js/components/AxiosHeaders-8fda6515f97c34064f50.js.map"
+      ]
+    },
+    "components/ErrorMessage": {
+      "js": [
+        "/packs/js/components/ErrorMessage-a8902c9102f8976d4e36.js"
+      ],
+      "js.map": [
+        "/packs/js/components/ErrorMessage-a8902c9102f8976d4e36.js.map"
+      ]
+    },
+    "components/Spinner": {
+      "js": [
+        "/packs/js/components/Spinner-11a5bab0edce739d3318.js"
+      ],
+      "js.map": [
+        "/packs/js/components/Spinner-11a5bab0edce739d3318.js.map"
+      ]
+    },
+    "components/TodoApp": {
+      "js": [
+        "/packs/js/components/TodoApp-ae638817671e7dfe70ae.js"
+      ],
+      "js.map": [
+        "/packs/js/components/TodoApp-ae638817671e7dfe70ae.js.map"
+      ]
+    },
+    "components/TodoForm": {
+      "js": [
+        "/packs/js/components/TodoForm-351814547682a997b217.js"
+      ],
+      "js.map": [
+        "/packs/js/components/TodoForm-351814547682a997b217.js.map"
+      ]
+    },
+    "components/TodoItem": {
+      "js": [
+        "/packs/js/components/TodoItem-1c98589f47cd729d8e10.js"
+      ],
+      "js.map": [
+        "/packs/js/components/TodoItem-1c98589f47cd729d8e10.js.map"
+      ]
+    },
+    "components/TodoItems": {
+      "js": [
+        "/packs/js/components/TodoItems-f3c79dbdc84cc689b682.js"
+      ],
+      "js.map": [
+        "/packs/js/components/TodoItems-f3c79dbdc84cc689b682.js.map"
+      ]
+    }
+  }
+}
