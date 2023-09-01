@@ -8,6 +8,7 @@ class TodoForm extends React.Component {
         super(props)
         this.handleSubmit = this.handleSubmit.bind(this)
         this.titleRef = React.createRef()
+        this.descriptionRef = React.createRef()
     }
 
     handleSubmit(e) {
@@ -17,6 +18,7 @@ class TodoForm extends React.Component {
             .post('/api/v1/todo_items', {
                 todo_item: {
                     title: this.titleRef.current.value,
+                    description: this.descriptionRef.current.value,
                     complete: false,
                 },
             })
@@ -46,7 +48,20 @@ class TodoForm extends React.Component {
                             placeholder="Write your todo item here..."
                         />
                     </div>
-                    <div className="form-group col-md-4">
+
+                    <div className="form-group col-md-8">
+                        <input
+                            type="textarea"
+                            name="description"
+                            ref={this.descriptionRef}
+                            required
+                            className="form-control"
+                            id="description"
+                            placeholder="Write your description here..."
+                        />
+                    </div>
+                    
+                    <div className="form-group col-md-8">
                         <button className="btn btn-outline-success btn-block">
                             Add To Do Item
                         </button>
